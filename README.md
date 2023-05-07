@@ -9,7 +9,7 @@
 </div>
 <div id="badges" align="center">
     <a href="https://www.facebook.com/christianalexis.vazquezgonzalez/" target="_blank">
-        <img src=""
+        <img src="https://img.shields.io/badge/christian-facebook-blue"
             alt="facebook Badge" />
    </a>
 </div>
