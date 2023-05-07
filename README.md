@@ -35,7 +35,7 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
           <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>  
-          <img src=" https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" title="sql"  alt="sql" width="40" height="40"/>&nbsp;
+          <img src="https://ehnkw9yknjp.exactdn.com/app/themes/coginiti-sage/resources/svg/Logo=MSSQLServer,%20Color=Yes.svg" title="sql"  alt="sql" width="40" height="40"/>&nbsp;
   
           
    </div>
@@ -52,10 +52,7 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40"                             height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
          
-       
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>           
-  
+    
           
    </div>
 </div>
