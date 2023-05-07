@@ -27,8 +27,8 @@
 <div align="center">
     <h3>🔨 SOFTWARE:</h3>
 </div>
-<div align="center">
-  <table style="width:100%">
+<div>
+  <table>
   <tr>
     <th>LENGUAJE</th>
     <th>PERCENT</th>
