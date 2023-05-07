@@ -19,8 +19,7 @@
 
 - 💬 Ask me about **PHP, Laravel, Python, Javascript**
 
-- 📫 How to reach me **carlos.develops@gmail.com**
+- 📫 How to reach me **cvchrisales@gamil.com**
 
 - 🌱 I’m currently learning **React.js, Blockchain, Web3 and Solidity**
 
-- 🌐 Website [youdevs.com](youdevs.com)
