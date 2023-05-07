@@ -88,7 +88,8 @@
 ---
 <div id="certificaciones"
 <h3>Certificaciones</h3>
+<video>
 <iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/tpQAWDIZ#log0YPToGcrEaiUcglIVqn8pIKOF0N4MTLan62tb8K4" allowfullscreen ></iframe>
-
+</video>
      
 </div>
