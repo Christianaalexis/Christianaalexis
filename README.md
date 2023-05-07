@@ -47,10 +47,10 @@
     <h3>🔨 NETWORK:</h3>
 </div>
 <div align="center">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6VvLVkYjg4HRR_75DIOKRQAaKAgXd69ZQhOqLWhLwDaI3QHa90iXMtmuW6lZa6BlaS1E&usqp=CAU" title="HTML5" alt="HTML" width="80" height="60"/>&nbsp;
-          <img src="https://www.svgrepo.com/show/448273/azure-vms.svg"  title="CSS3" alt="CSS" width="40" height="60"/>&nbsp;
+          <img src="https://www.secsign.com/wp-content/uploads/2018/02/active-directory-logo.png" title="ad" alt="ad" width="40" height="70"/>&nbsp;
+          <img src="https://www.svgrepo.com/show/448273/azure-vms.svg"  title="mv" alt="mv" width="40" height="70"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"                      height="40"/>&nbsp;
-          <img src="https://www.svgrepo.com/show/331335/cisco.svg" title="cisco" alt="cisco" width="40"                             height="40"/>&nbsp;
+          <img src="https://www.svgrepo.com/show/331335/cisco.svg" title="cisco" alt="cisco" width="40"                             height="70"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
          
     
