@@ -66,8 +66,8 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="putty" alt="putty" width="40"                      height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40"                             height="40"/>&nbsp;
           <img src="https://freesvg.org/img/1634207749manjaro.png" title="manjaro"  alt="manjaro" width="40" height="40"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain-wordmark.svg" title="filezilla" **alt="filezilla" width="40" height="40"/>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>           
+          <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain-wordmark.svg" title="filezilla" **alt="filezilla" width="80" height="80"/>
+                   
   
           
    </div>
