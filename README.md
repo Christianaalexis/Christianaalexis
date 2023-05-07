@@ -76,3 +76,17 @@
 </div>
 
 ---
+<div id="projects"
+<h3>SKILLS</h3>
+     
+</div>
+---
+<div id="projects"
+<h3>Projects</h3>
+     
+</div>
+---
+<div id="certificaciones"
+<h3>Certificaciones</h3>
+     
+</div>
