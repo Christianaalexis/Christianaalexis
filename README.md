@@ -47,11 +47,11 @@
     <h3>🔨 NETWORK:</h3>
 </div>
 <div align="center">
-          <img src="https://www.secsign.com/wp-content/uploads/2018/02/active-directory-logo.png" title="ad" alt="ad" width="50" height="90"/>&nbsp;
-          <img src="https://www.svgrepo.com/show/448273/azure-vms.svg"  title="mv" alt="mv" width="60" height="100"/>&nbsp;
+          <img src="https://www.secsign.com/wp-content/uploads/2018/02/active-directory-logo.png" title="ad" alt="ad" width="70" height="70"/>&nbsp;
+          <img src="https://www.svgrepo.com/show/448273/azure-vms.svg"  title="mv" alt="mv" width="70" height="70"/>&nbsp;
           <img src="https://cdn-icons-png.flaticon.com/512/1055/1055683.png" title="mantenimiento" alt="JavaScript" width="70" height="70"/>&nbsp;
           <img src="https://www.svgrepo.com/show/331335/cisco.svg" title="cisco" alt="cisco" width="70" height="70"/>&nbsp;
-          <img src="https://img2.freepng.es/20190423/cbh/kisspng-ethernet-electrical-cable-structured-cabling-netwo-5cbf2d11c1d796.258458901556032785794.svg" title="cableado"  alt="cableado" width="70" height="70"/>&nbsp;
+          <img src="https://cdn0.iconfinder.com/data/icons/data-network/64/Ethernet-network-plug-port-cable-rj45-utp-512.svg" title="cableado"  alt="cableado" width="70" height="70"/>&nbsp;
          
     
           
