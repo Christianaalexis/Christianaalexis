@@ -13,4 +13,14 @@
             alt="facebook Badge" />
    </a>
 </div>
+### 👨‍💻 About Me :
 
+- 📝 I regularly upload videos on [https://www.youtube.com/youdevs](https://www.youtube.com/youdevs)
+
+- 💬 Ask me about **PHP, Laravel, Python, Javascript**
+
+- 📫 How to reach me **carlos.develops@gmail.com**
+
+- 🌱 I’m currently learning **React.js, Blockchain, Web3 and Solidity**
+
+- 🌐 Website [youdevs.com](youdevs.com)
