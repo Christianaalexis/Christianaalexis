@@ -88,5 +88,6 @@
 ---
 <div id="certificaciones"
 <h3>Certificaciones</h3>
+<video src="https://mega.nz/file/tpQAWDIZ#log0YPToGcrEaiUcglIVqn8pIKOF0N4MTLan62tb8K4">
      
 </div>
