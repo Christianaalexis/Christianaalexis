@@ -24,7 +24,9 @@
 
 - 🌱 I’m currently learning **DJANGO**
 ---
-<div align="center">
+
+<div id="lenguajes">
+  <div align="center">
     <h3>🔨 SOFTWARE:</h3>
 </div>
 <div align="center">
@@ -40,7 +42,6 @@
           
    </div>
 </div>
----
 
 <div align="center">
     <h3>🔨 NETWORK:</h3>
@@ -72,4 +73,6 @@
           
    </div>
 </div>
+</div>
+
 ---
