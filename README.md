@@ -8,13 +8,9 @@
   </h3>
 </div>
 <div id="badges" align="center">
-    <a href="https://www.youtube.com/youdevs" target="_blank">
-        <img src="https://img.shields.io/youtube/channel/subscribers/UC4hHrYhWMy-iN29_3bJ7zfA?label=suscriptores&logo=youtube&style=for-the-badge"
-            alt="Youtube Badge" />
-    </a>
     <a href="https://www.facebook.com/christianalexis.vazquezgonzalez/" target="_blank">
-        <img src="https://img.shields.io/facebook/&style=for-the-badge"
-            alt="FACEBOOK" />
-    </a>
+        <img src=""
+            alt="facebook Badge" />
+   </a>
 </div>
 
