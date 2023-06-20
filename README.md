@@ -90,7 +90,7 @@
  <hr>
  <div>1-CONNECTION PYTHON-MYSQL</div>    
  <div> <img src="https://miro.medium.com/v2/resize:fit:1400/0*F2jD1kieCw7lr9Nd.png"  width="75" height="50"/>&nbsp;</div>  
- <div>[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription)</div>
+ [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30"/>](https://github.com/)
 </div>
 ---
 <div id="certificaciones"
