@@ -79,7 +79,7 @@
 <div id="projects"
 <h3>SKILLS</h3>
 <div > ORGANIZATION</div>
-<div > <img  src="https://giphy.com/embed/XROOE9NApITmCgF6dZ" width="600"/> TEAMWORK</div>
+<div > <img  src="https://giphy.com/embed/XROOE9NApITmCgF6dZ" height="480" width="600"/> TEAMWORK</div>
 <div > Initiative</div>
 <div > Responsibility</div>
      
