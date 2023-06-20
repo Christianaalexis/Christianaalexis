@@ -88,9 +88,9 @@
 <div id="projects">
  <h3>Projects</h3>
  <hr>
- <div>CONNECTION PYTHON-MYSQL</div>    
+ <div>1-CONNECTION PYTHON-MYSQL</div>    
  <div> <img src="https://miro.medium.com/v2/resize:fit:1400/0*F2jD1kieCw7lr9Nd.png"  width="75" height="50"/>&nbsp;</div>  
- 
+ <div>[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription)</div>
 </div>
 ---
 <div id="certificaciones"
