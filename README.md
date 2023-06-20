@@ -89,7 +89,7 @@
  <h3>Projects</h3>
  <hr>
  <div>1-CONNECTION PYTHON-MYSQL</div>    
- <div> <a href="https://github.com/Christianaalexis/CONNECTION_MYSQL_POO"><img src="https://miro.medium.com/v2/resize:fit:1400/0*F2jD1kieCw7lr9Nd.png"  width="75" height="50"/>&nbsp;</a> </div>  
+ <div> <a  href="https://github.com/Christianaalexis/CONNECTION_MYSQL_POO"><img src="https://miro.medium.com/v2/resize:fit:1400/0*F2jD1kieCw7lr9Nd.png"  width="75" height="50"/>&nbsp;</a> </div>  
 
 </div>
 ---
