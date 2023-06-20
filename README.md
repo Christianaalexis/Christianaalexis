@@ -78,7 +78,7 @@
 ---
 <div id="projects"
 <h3>SKILLS</h3>
-<div align="center">ORGANIZACION</div>
+<div align="center"> <img src="https://freesvg.org/img/1634207749manjaro.png" title="manjaro"  alt="manjaro" width="40" height="40"/>&nbsp; ORGANIZACION</div>
      
 </div>
 ---
