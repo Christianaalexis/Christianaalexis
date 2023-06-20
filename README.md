@@ -78,6 +78,7 @@
 ---
 <div id="projects"
 <h3>SKILLS</h3>
+<div align="center">ORGANIZACION</div>
      
 </div>
 ---
