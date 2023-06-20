@@ -80,7 +80,7 @@
 <h3>SKILLS</h3>
 <div> ORGANIZATION </div>
 <div> TEAMWORK </div>
-<div><iframe src="https://giphy.com/embed/XROOE9NApITmCgF6dZ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<div><img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="putty" alt="putty" width="40"                      height="40"/>&nbsp;</div>
 <div > Initiative</div>
 <div > Responsibility</div>
      
