@@ -79,7 +79,7 @@
 <div id="projects"
 <h3>SKILLS</h3>
 <div> ORGANIZATION </div>
-<div><img src="https://us.123rf.com/450wm/glopphy/glopphy1202/glopphy120200056/12490862-trabajo-en-equipo-en-la-gente-alrededor-de-un-logotipo-abrazo.jpg?ver=6" title="putty" alt="putty" width="40" height="40"/>&nbsp;  TEAMWORK </div>
+<div><img src="https://images.vexels.com/media/users/3/76764/raw/d0940bfa707a8590e3ec8695421aa919-circulo-de-personas-de-trabajo-en-equipo.jpg" title="putty" alt="putty" width="40" height="40"/>&nbsp;  TEAMWORK </div>
 <div > Initiative</div>
 <div > Responsibility</div>
      
