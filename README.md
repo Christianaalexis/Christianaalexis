@@ -78,11 +78,11 @@
 ---
 <div id="projects"
 <h3>SKILLS</h3>
-<div> ORGANIZATION </div>
-<div><img src="https://cdn-icons-png.flaticon.com/512/3094/3094848.png" title="putty" alt="putty" width="20" height="20"/>&nbsp;  TEAMWORK </div>
-<div > Initiative</div>
-<div > Responsibility</div>
-     
+<div> 
+  <li>ORGANIZATION</li>   
+  <li>TEAMWORK</li>  
+  <li>Initiative</li>
+  <li>Responsibility</li>
 </div>
 ---
 <div id="projects"
