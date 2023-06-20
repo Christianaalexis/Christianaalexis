@@ -79,7 +79,7 @@
 <div id="projects"
 <h3>SKILLS</h3>
 <div > ORGANIZATION</div>
-<div ><iframe src="https://giphy.com/embed/XROOE9NApITmCgF6dZ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Atlassian-XROOE9NApITmCgF6dZ">via GIPHY</a></p> TEAMWORK</div>
+<div ><iframe src="https://giphy.com/embed/XROOE9NApITmCgF6dZ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>TEAMWORK</div>
 <div > Initiative</div>
 <div > Responsibility</div>
      
