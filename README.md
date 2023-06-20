@@ -87,7 +87,9 @@
 ---
 <div id="projects"
 <h3>Projects</h3>
-     
+<div>CONNECTION PYTHON-MYSQL</div>    
+<div> <img src="https://miro.medium.com/v2/resize:fit:1400/0*F2jD1kieCw7lr9Nd.png"  width="40" height="40"/>&nbsp;</div>  
+ 
 </div>
 ---
 <div id="certificaciones"
